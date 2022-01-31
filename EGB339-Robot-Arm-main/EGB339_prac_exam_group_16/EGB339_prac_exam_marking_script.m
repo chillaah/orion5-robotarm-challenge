@@ -2,7 +2,7 @@ clear all
 close all
 
 %this will be used to flag how you want to be assessed
-fname = 'EGB339_prac_exam_group_38.json';
+fname = 'EGB339_prac_exam_group_16.json';
 flags = jsondecode(fileread(fname));
 
 %change this for different input sheets
