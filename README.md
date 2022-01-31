@@ -7,13 +7,18 @@
 - List out skills as per the assessment brief
 ---
 ### Installation/Use instructions
--   Describe the architecture and components of modern operating systems.
--   Articulate industry standards and critically apply best practice for developing safety-critical systems.
--   Identify the potential societal and safety impact of systems programming failures.
--   Construct low-level systems programs to carry out authentic systems programming tasks.
+-   Load up CoppeliaSim with the correct scene
+-   Open up matlab with the vision and other setttings set correctly on the json file
+-   Run the simulator first and then proceed to run the matlab script.
 ---
 ### Completed Project
-- This is where you can put pictures
+- 
+![Screen Shot 2022-01-31 at 8 32 27 pm](https://user-images.githubusercontent.com/71302996/151778189-981f35cd-9ed9-464a-abd3-af0422b51e75.png)
+
+
+
+https://user-images.githubusercontent.com/71302996/151768717-2e0e0e41-01d4-4c63-bd44-9ff49bb82c82.MP4
+
 ---
 ### Notes about the Project
 - open source can use/contribute to it
