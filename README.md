@@ -1,10 +1,12 @@
-# EGB339-Robot-Arm-Public
-
-# Project Name
-- This repository contains the code for the project name. This project was done in language. Few Custom Lines that be copied over to the resume.
+# 4 DoF Robotic Arm Pick and Place Challenge
+- This repository contains the code for the pick and place challenge. This project was done in Matlab.
 ---
 ### Skills gained at the completion of the project
-- List out skills as per the assessment brief
+- Vision task - identify shapes and colours
+- Pick and place - move from initial positions to the final destination
+- Accuracy of placement.
+- Inverse Kinematics
+- Path planning and Trajectory
 ---
 ### Installation/Use instructions
 -   Load up CoppeliaSim with the correct scene
